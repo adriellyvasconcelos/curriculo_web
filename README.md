@@ -36,3 +36,4 @@ Tabela com 4 colunas (Projeto, Tecnologias, Status, Link):
 Links:
 - https://github.com/adriellyvasconcelos/php-exemplos-basicos
 - https://github.com/adriellyvasconcelos/projeto-filme
+- https://github.com/adriellyvasconcelos/logica-e-algoritimos
